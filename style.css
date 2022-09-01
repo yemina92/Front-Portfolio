@@ -1,15 +1,29 @@
-.logoAP{
+.logoAP {
     background-color: #00358e;
 }
 
-#logo{
+#logo {
     background-color: #00358e;
     width: 150px;
 }
 
-.social-icons{
+.social-icons {
     float: right;
-    margin-right: 15px;
-    margin-top: 20px;
-
+    margin-top: 30px;
+    
 }
+#facebook {
+    width: 25px;
+    margin-right: 5px;
+}
+
+#instagram {
+    width: 25px;
+    margin-right: 5px;   
+}
+
+#github{
+    width: 25px;
+    margin-right: 10px;
+}
+
